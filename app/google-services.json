@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527985994020",
+    "project_id": "letswatch-4ab47",
+    "storage_bucket": "letswatch-4ab47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527985994020:android:9ec07bb1ab37f50ef06bb1",
+        "android_client_info": {
+          "package_name": "com.example.letswatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527985994020-fa1288l4oolrvl929o8aqr3oi0sh5npp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9oViNHW3CFQU0JsynJL6ciPjYQSnI6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527985994020-fa1288l4oolrvl929o8aqr3oi0sh5npp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
